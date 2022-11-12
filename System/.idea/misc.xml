@@ -3,7 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Matching-Oranges/System/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Matching-Oranges/System/app/src/main/res/drawable/gradient_shape.xml" value="0.247" />
+        <entry key="..\:/Matching-Oranges/System/app/src/main/res/layout/activity_login.xml" value="0.4" />
+        <entry key="..\:/Matching-Oranges/System/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Matching-Oranges/System/app/src/main/res/layout/activity_register.xml" value="0.20989583333333334" />
+        <entry key="..\:/Matching-Oranges/System/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/Matching-Oranges/System/app/src/main/res/layout/fragment_card.xml" value="0.25" />
+        <entry key="..\:/Matching-Oranges/System/app/src/main/res/layout/fragment_dating.xml" value="0.2359375" />
+        <entry key="..\:/Matching-Oranges/System/app/src/main/res/layout/fragment_event.xml" value="0.25" />
+        <entry key="..\:/Matching-Oranges/System/app/src/main/res/layout/fragment_message.xml" value="0.25" />
+        <entry key="..\:/Matching-Oranges/System/app/src/main/res/layout/fragment_profile.xml" value="0.2359375" />
+        <entry key="..\:/Matching-Oranges/System/app/src/main/res/layout/item_user_layout.xml" value="0.24895833333333334" />
+        <entry key="..\:/Matching-Oranges/System/app/src/main/res/layout/loading_layout.xml" value="0.24895833333333334" />
+        <entry key="..\:/Matching-Oranges/System/app/src/main/res/menu/bottom_menu.xml" value="0.24895833333333334" />
       </map>
     </option>
   </component>

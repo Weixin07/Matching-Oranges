@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".ui.MessageFragment">
+
+    <TextView
+        android:id="@+id/user1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="John\n Nice to Meet You!"
+        app:layout_constraintBottom_toTopOf="@id/user2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Maria \n Wanna hang next week?"
+        android:id="@+id/user2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/user3"
+        app:layout_constraintTop_toBottomOf="@id/user1"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Brian \n Hope you had fun on the last event."
+        android:id="@+id/user3"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintBottom_toTopOf="@id/user4"
+        app:layout_constraintTop_toBottomOf="@id/user2"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Jean \n Imma pair of Jeans skrskr"
+        android:id="@+id/user4"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/user5"
+        app:layout_constraintTop_toBottomOf="@id/user3"/>
+
+    <TextView
+        android:id="@+id/user5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Weee \n Yes."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/user4"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

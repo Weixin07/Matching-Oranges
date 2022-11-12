@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "917874920902",
+    "project_id": "matchingorange",
+    "storage_bucket": "matchingorange.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917874920902:android:aedfcb38c5151080f636c7",
+        "android_client_info": {
+          "package_name": "com.example.matching_oranges"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917874920902-fqg1cl0tr9380kob3vb7atfnojrir8jl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVBSH3mQT5e2cQSsU8eh4OP7LgljbdKDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917874920902-fqg1cl0tr9380kob3vb7atfnojrir8jl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
